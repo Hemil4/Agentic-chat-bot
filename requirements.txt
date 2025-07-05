@@ -9,3 +9,5 @@ faiss-cpu
 streamlit
 tavily-python
 requests
+tavily-python
+langchain-tavily
