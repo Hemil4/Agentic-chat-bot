@@ -4,6 +4,8 @@ langchain_community
 langchain_core
 langchain_groq
 langchain_openai
+langchain-ollama
 faiss-cpu
 streamlit
 tavily-python
+requests
