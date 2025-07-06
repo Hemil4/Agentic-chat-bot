@@ -135,3 +135,5 @@ dmypy.json
 # Data files (adjust based on your needs)
 *.csv
 *.json
+
+AINews/
